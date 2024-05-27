@@ -33,12 +33,13 @@ Content-Type: application/json
 
 Body (raw JSON):
       
-     {
+  {
+    "model": "meta-llama/Meta-Llama-3-70B-Instruct",
+    "messages": [
+        {"role": "user", "content": "What is the weather forecast for tomorrow?"}
+    ]
+}
 
-    "question": "What is the weather forecast for tomorrow?",
-    "user_id": "user123"
-
-    }
 
       
   ```
