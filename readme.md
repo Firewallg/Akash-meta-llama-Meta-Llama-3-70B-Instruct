@@ -44,6 +44,6 @@ Body (raw JSON):
   ```
 - Make sure to replace <host> with the actual host where the model is deployed
 - Adjust the question and user ID in the JSON body as needed
-- fter setting up the request in Postman with these details, you can simply hit the Send button to interact with the chatbot. You'll receive the response from the API containing the chatbot's answer.
+- After setting up the request in Postman with these details, you can simply hit the Send button to interact with the chatbot. You'll receive the response from the API containing the chatbot's answer.
 - Enjoy 
 
