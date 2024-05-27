@@ -46,5 +46,8 @@ Body (raw JSON):
 - Make sure to replace <host> with the actual host where the model is deployed
 - Adjust the question and user ID in the JSON body as needed
 - After setting up the request in Postman with these details, you can simply hit the Send button to interact with the chatbot. You'll receive the response from the API containing the chatbot's answer.
-- Enjoy 
+- Enjoy
 
+# Test Resluts
+![image](https://github.com/Firewallg/Akash-meta-llama-Meta-Llama-3-70B-Instruct/assets/97313245/94015a44-d0c5-4117-a4d0-ddc9530599cd)
+# Link to the [screen recording](https://youtu.be/iluT2lOf7Bg) of the model test run.
