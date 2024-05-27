@@ -27,7 +27,7 @@
 - For Testing on Postman API use the following
  ```
   Method: POST
-Endpoint: http://<host>/api/chat
+Endpoint: http://<host>/v1/chat/completions
 Headers:
 Content-Type: application/json
 
