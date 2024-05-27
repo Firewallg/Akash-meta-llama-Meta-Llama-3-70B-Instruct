@@ -24,3 +24,26 @@
 # Interacting With The Chat Meta/llama-3 bot
 
 - After successful deployment use the [code]() to interact with the chat meta bot.
+- For Testing on Postman API use the following
+ ```
+  Method: POST
+Endpoint: http://<host>/api/chat
+Headers:
+Content-Type: application/json
+
+Body (raw JSON):
+      
+     {
+
+    "question": "What is the weather forecast for tomorrow?",
+    "user_id": "user123"
+
+    }
+
+      
+  ```
+- Make sure to replace <host> with the actual host where the model is deployed
+- Adjust the question and user ID in the JSON body as needed
+- fter setting up the request in Postman with these details, you can simply hit the Send button to interact with the chatbot. You'll receive the response from the API containing the chatbot's answer.
+- Enjoy 
+
